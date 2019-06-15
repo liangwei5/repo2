@@ -1,3 +1,4 @@
 out
-maven_day1_parent.iml
+*.iml
 .idea
+target
